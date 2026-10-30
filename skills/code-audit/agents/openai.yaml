@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Audit"
+  short_description: "Audit tests, defects, cohesion, and OWASP controls"
+  default_prompt: "Run $code-audit on this repository and save an evidence-based report."
