@@ -7,6 +7,7 @@ Reusable instructions for AI coding agents, covering implementation standards an
 | [House coding rules](skills/house-coding-rules/SKILL.md) | Coding conventions, boundaries, error handling, security and testing, with references for 15 languages and configuration formats. |
 | [Code audit](skills/code-audit/SKILL.md) | Assess coverage, test effectiveness, defects, missing implementation, cohesion and OWASP controls. Includes a reporting rubric and an 85% coverage warning threshold. |
 | [Content rewriter](skills/content-rewriter/SKILL.md) | Rewrite supplied website content in a plain, insider-to-insider voice and remove machine-written patterns while keeping every fact as supplied. Includes voice and humaniser references and a script that compares figures, quotations and links against the original. |
+| [UXpeak UX/UI](skills/uxpeak-ux-ui/SKILL.md) | Evaluate, design and implement web and mobile interfaces with guidance for auditing, prototyping and verification. |
 
 ## Use
 
@@ -23,6 +24,6 @@ The skills complement each other. Coding rules guide implementation; code audit 
 
 ## Source and licence
 
-These skills were maintained in an AIS-OS workspace and exported for public reuse. This repository contains only the skills and their supporting files, without personal workspace context or private repository history.
+The original skills were maintained in an AIS-OS workspace and exported for public reuse. UXpeak UX/UI is an independent synthesis of public UXpeak material. Its [source register](skills/uxpeak-ux-ui/references/sources.md) documents the sources and review coverage. This repository contains only the skills and their supporting files, without personal workspace context or private repository history.
 
 Published under the [MIT licence](LICENSE), retaining the source workspace's licence notice. The source workspace is based on [AIS-OS](https://github.com/nateherkai/AIS-OS). The licence's framework trademark notice is retained; that framework is not included here.

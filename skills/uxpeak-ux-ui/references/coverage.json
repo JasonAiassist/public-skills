@@ -1,0 +1,237 @@
+{
+  "review_date": "2026-10-31",
+  "channel": "https://www.youtube.com/@uxpeak",
+  "scope": "Public videos and Shorts returned by the channel inventory; no private, deleted, paid or future material.",
+  "items": [
+    {
+      "source_id": "V01",
+      "video_id": "U7jTCgIWS4w",
+      "title": "UX Design Thinking Behind The Best Apps",
+      "url": "https://www.youtube.com/watch?v=U7jTCgIWS4w",
+      "upload_date": "20261008",
+      "duration_seconds": 932,
+      "review_status": "description-only",
+      "notes": "Balance visible information and hidden complexity around the user decision. Description discusses food delivery and filters; detailed redesign steps were not verified."
+    },
+    {
+      "source_id": "V02",
+      "video_id": "GGg61sdEjeI",
+      "title": "This UI/UX Redesign Will Teach You More Than 100 Tutorials Combined",
+      "url": "https://www.youtube.com/watch?v=GGg61sdEjeI",
+      "upload_date": "20260827",
+      "duration_seconds": 812,
+      "review_status": "description-only",
+      "notes": "Product-page hierarchy, imagery, reviews, variants, quantities and purchase actions. These topics come from the description; no detailed implementation or outcome was verified."
+    },
+    {
+      "source_id": "V03",
+      "video_id": "2TlIg3VokY8",
+      "title": "The UX Psychology Behind Apps People Can’t Stop Using",
+      "url": "https://www.youtube.com/watch?v=2TlIg3VokY8",
+      "upload_date": "20260702",
+      "duration_seconds": 694,
+      "review_status": "full-transcript",
+      "notes": "Editable defaults, genuine progress and demonstrating value before registration can reduce friction. Reject the examples using threatening loss messages, fabricated urgency or misleading recurring-cost comparisons. Psychological statistics were not independently verified."
+    },
+    {
+      "source_id": "V04",
+      "video_id": "zr37ibqXl1U",
+      "title": "Top 3 UX/UI Redesigns That Make You Design Like a Pro",
+      "url": "https://www.youtube.com/watch?v=zr37ibqXl1U",
+      "upload_date": "20260531",
+      "duration_seconds": 864,
+      "review_status": "full-transcript",
+      "notes": "Explain trial timing, booking details and commitment near the decision. Use relevant product imagery. Retain uncertainty in estimated prices; claims that a redesign wins are not independent experimental evidence."
+    },
+    {
+      "source_id": "V05",
+      "video_id": "oYskl2ZBoBc",
+      "title": "Ecommerce Page Redesign: UX/UI Tips to 3.5x Conversion",
+      "url": "https://www.youtube.com/watch?v=oYskl2ZBoBc",
+      "upload_date": "20260425",
+      "duration_seconds": 502,
+      "review_status": "full-transcript",
+      "notes": "Clarify product options and answer questions near purchase decisions. Do not reproduce invented reviews, unsupported trust claims or preselected paid subscriptions. The claimed conversion improvement is unverified."
+    },
+    {
+      "source_id": "V06",
+      "video_id": "_kUq8p94NnU",
+      "title": "3D Animated Hamburger Website Figma Tutorial  Smart Animate Scroll Effect",
+      "url": "https://www.youtube.com/watch?v=_kUq8p94NnU",
+      "upload_date": "20250812",
+      "duration_seconds": 4060,
+      "review_status": "description-only",
+      "notes": "Description identifies a layered hamburger animation using Smart Animate and scrolling. Exact tutorial steps were not reviewed. Paid supplementary materials were not accessed."
+    },
+    {
+      "source_id": "V07",
+      "video_id": "Xzh8xjimmp8",
+      "title": "Top 5 Advanced UX/UI Design Tips and Tricks Every Designer Needs to Know About – Part 3",
+      "url": "https://www.youtube.com/watch?v=Xzh8xjimmp8",
+      "upload_date": "20250729",
+      "duration_seconds": 612,
+      "review_status": "full-transcript",
+      "notes": "Useful search starting states, order-tracking information, recognizable categories and controls suited to frequency and precision. Personalization should retain user control and predictable navigation."
+    },
+    {
+      "source_id": "V08",
+      "video_id": "wLJ40GV2XEc",
+      "title": "Top UI/UX Design Tips - How to Design a Great Bottom Mobile Navigation Bar",
+      "url": "https://www.youtube.com/watch?v=wLJ40GV2XEc",
+      "upload_date": "20250425",
+      "duration_seconds": 1426,
+      "review_status": "full-transcript",
+      "notes": "Prioritize frequent destinations; use understandable labels, consistent icons, clear selection, safe areas and restrained badges. Numerical tab, type and target-size examples are contextual, sometimes inconsistent, and not universal standards."
+    },
+    {
+      "source_id": "V09",
+      "video_id": "YlN28RNChl0",
+      "title": "This Video Will Take You From Junior to Senior UX/UI Designer",
+      "url": "https://www.youtube.com/watch?v=YlN28RNChl0",
+      "upload_date": "20241117",
+      "duration_seconds": 1002,
+      "review_status": "full-transcript",
+      "notes": "Improve input hierarchy, recipient recognition, money-entry clarity and common choices with custom alternatives. Novel controls are not inherently better. Sleep examples do not establish medical quality thresholds."
+    },
+    {
+      "source_id": "V10",
+      "video_id": "Dn8vQGO4RoE",
+      "title": "Top 7 Interactive Web Designs That Deserve an Award",
+      "url": "https://www.youtube.com/watch?v=Dn8vQGO4RoE",
+      "upload_date": "20241001",
+      "duration_seconds": 573,
+      "review_status": "full-transcript",
+      "notes": "Expressive portfolios and product sites demonstrate coherent imagery, 3D and scroll storytelling. Showcase appeal and awards do not establish task usability or substantiate product claims."
+    },
+    {
+      "source_id": "V11",
+      "video_id": "gG4urkinFQI",
+      "title": "Top 5 UX/UI Design Tips and Tricks Everyone Needs to Know About, Part 2",
+      "url": "https://www.youtube.com/watch?v=gG4urkinFQI",
+      "upload_date": "20240802",
+      "duration_seconds": 421,
+      "review_status": "full-transcript",
+      "notes": "Use informative choices, reachable actions, purposeful empty states and recognition cues. Cards and images help only when they clarify the task rather than add clutter."
+    },
+    {
+      "source_id": "V12",
+      "video_id": "8pMUkEbAM7g",
+      "title": "Top 5 UX/UI Design Tips and Tricks Every Designer Needs to Know About, part 1",
+      "url": "https://www.youtube.com/watch?v=8pMUkEbAM7g",
+      "upload_date": "20240718",
+      "duration_seconds": 421,
+      "review_status": "full-transcript",
+      "notes": "Emphasize meaningful values, clarify visual hierarchy and show the actual product. Soft shadows are optional styling. Claimed conversion changes are not validated predictions."
+    },
+    {
+      "source_id": "V13",
+      "video_id": "SIoOS6tFw1Y",
+      "title": "UX/UI Design Tutorial in Figma  - Design Modern Website from Scratch",
+      "url": "https://www.youtube.com/watch?v=SIoOS6tFw1Y",
+      "upload_date": "20240323",
+      "duration_seconds": 3389,
+      "review_status": "full-transcript",
+      "notes": "Research the audience, use realistic content, reusable styles and nested auto layout, and establish a coherent landing-page hierarchy. Fictional audience assumptions and fixed frame values must not become universal design rules."
+    },
+    {
+      "source_id": "V14",
+      "video_id": "03Xw8UyC6uo",
+      "title": "The Shortest UX/UI Design Course",
+      "url": "https://www.youtube.com/watch?v=03Xw8UyC6uo",
+      "upload_date": "20231104",
+      "duration_seconds": 400,
+      "review_status": "full-transcript",
+      "notes": "Iterate through understanding, problem definition, ideas, prototypes and testing; communicate behavior and responsiveness in handoff. Select fidelity for the research question rather than assuming higher fidelity is always better."
+    },
+    {
+      "source_id": "V15",
+      "video_id": "5cqpf1rdeFc",
+      "title": "Create a 3D Animated Website with Figma & Dora - No Code Required",
+      "url": "https://www.youtube.com/watch?v=5cqpf1rdeFc",
+      "upload_date": "20230912",
+      "duration_seconds": 407,
+      "review_status": "full-transcript",
+      "notes": "Import a design, repair alignment, stage 3D assets and set responsive constraints. Exported designs still require verification. Historical vendor controls may have changed."
+    },
+    {
+      "source_id": "V16",
+      "video_id": "BZ0QER_0ZWI",
+      "title": "UI Design Trends Everyone Is Talking About",
+      "url": "https://www.youtube.com/watch?v=BZ0QER_0ZWI",
+      "upload_date": "20230821",
+      "duration_seconds": 305,
+      "review_status": "full-transcript",
+      "notes": "Historical discussion of 3D, custom cursors, scroll storytelling, neon, minimalism and large typography. It includes a 2023 trend context; do not present this as current trend research."
+    },
+    {
+      "source_id": "V17",
+      "video_id": "GFYc5ZT-vFI",
+      "title": "10 Game-Changing Figma Tips & Tricks Every Designer Needs to Know",
+      "url": "https://www.youtube.com/watch?v=GFYc5ZT-vFI",
+      "upload_date": "20230802",
+      "duration_seconds": 357,
+      "review_status": "full-transcript",
+      "notes": "Batch edits, layout tools, reusable properties and calculations can improve consistency and speed. Verify current Figma behavior before prescribing exact shortcuts."
+    },
+    {
+      "source_id": "V18",
+      "video_id": "J6DjxHXXZGw",
+      "title": "3D Interactive Animation With a Rotating Effect - Figma Prototyping Tutorial",
+      "url": "https://www.youtube.com/watch?v=J6DjxHXXZGw",
+      "upload_date": "20230720",
+      "duration_seconds": 362,
+      "review_status": "full-transcript",
+      "notes": "Use matched layers and coordinated rotation, position and color to simulate spatial motion. This is a prototype technique, not a real 3D implementation or a universal animation-duration recommendation."
+    },
+    {
+      "source_id": "V19",
+      "video_id": "xgk5N4rCJIw",
+      "title": "3D Carousel in Figma Using Smart Animate | Prototyping Tutorial",
+      "url": "https://www.youtube.com/watch?v=xgk5N4rCJIw",
+      "upload_date": "20230701",
+      "duration_seconds": 478,
+      "review_status": "full-transcript",
+      "notes": "Coordinate carousel selection, rotation and palette changes across states. Test reverse transitions as well as the forward demonstration. Preserve clear selection without relying on decorative motion."
+    },
+    {
+      "source_id": "V20",
+      "video_id": "cJmbncvBYJM",
+      "title": "How to Use AI to Create Stunning Designs - Midjourney Tutorial",
+      "url": "https://www.youtube.com/watch?v=cJmbncvBYJM",
+      "upload_date": "20230629",
+      "duration_seconds": 875,
+      "review_status": "full-transcript",
+      "notes": "Develop coherent image direction and palette, then organize app screens with reusable layout. AI tooling is historically specific; asset rights, factual accuracy and production behavior still need review."
+    },
+    {
+      "source_id": "V21",
+      "video_id": "6lSvKk7lTl0",
+      "title": "Horizontal and Vertical Scroll in Figma - Quick Prototyping Tutorial",
+      "url": "https://www.youtube.com/watch?v=6lSvKk7lTl0",
+      "upload_date": "20230619",
+      "duration_seconds": 265,
+      "review_status": "full-transcript",
+      "notes": "Separate viewport size, clipping and overflow behavior for horizontal and vertical scrolling. Check fixed navigation and final items. The demonstrated device dimensions are examples."
+    },
+    {
+      "source_id": "V22",
+      "video_id": "rI4A7whqvgo",
+      "title": "Animated Navigation Bar in Figma - Prototyping Tutorial",
+      "url": "https://www.youtube.com/watch?v=rI4A7whqvgo",
+      "upload_date": "20230530",
+      "duration_seconds": 705,
+      "review_status": "full-transcript",
+      "notes": "Build navigation variants and transitions with consistent selected states. Cover all relevant paths. Do not inherit the demonstration target size or long transition duration as production guidance."
+    },
+    {
+      "source_id": "V23",
+      "video_id": "8IpIo3SQOI0",
+      "title": "Next-Level Burger Website Animation Made in Figma",
+      "url": "https://www.youtube.com/shorts/8IpIo3SQOI0",
+      "upload_date": "20250122",
+      "duration_seconds": 12,
+      "review_status": "visual-sample",
+      "notes": "Two visual samples showed a dark burger-site presentation and the channel end card. No captions were available. This was not a complete frame-by-frame or usability review."
+    }
+  ]
+}

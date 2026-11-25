@@ -1,0 +1,4 @@
+interface:
+  display_name: "UXpeak UX/UI"
+  short_description: "Evaluate and build clear web and mobile interfaces"
+  default_prompt: "Use $uxpeak-ux-ui to evaluate, design or implement this interface. Ground recommendations in user tasks, distinguish evidence from assumptions, and verify the relevant interaction states."
